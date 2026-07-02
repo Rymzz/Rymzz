@@ -28,19 +28,18 @@ Computer engineering student at Polytechnique Montréal, interested in software 
 ```yaml
 name: Rym Zidi
 based_in: Montréal, Canada
-role: Computer Engineering Student
+role: Computer Engineering Student @ Polytechnique Montréal
 
-focus:
-  - Mobile app development
-  - Embedded systems
-  - Digital systems and VHDL
-  - Student productivity and wellness technology
-  - Robotics and teamwork
+what_i_do:
+  - Build Flutter apps that put student well-being on equal footing with productivity
+  - Program embedded robots from the metal up: FSMs, sensors, serial comms, C++
+  - Write algorithms first, then explain the "why" in a full technical report — bilingual FR/EN
+  - Lead partnerships for PolySTAR, Polytechnique's robotics student association
 
 currently:
-  studying: Computer Engineering @ Polytechnique Montréal
-  building: My Study Buddy
-  role: VP Partnerships @ PolySTAR
+  building: My Study Buddy — a mood-aware study companion app
+  learning: digital systems design and VHDL
+  looking_for: my first internship in software or embedded engineering
 ```
 
 ## Tech Stack
