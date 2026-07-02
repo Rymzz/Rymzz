@@ -61,7 +61,7 @@ currently:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎀 <a href="https://github.com/Rymzz/my-study-buddy">My Study Buddy</a></h3>
+      <h3> <a href="https://github.com/Rymzz/my-study-buddy">My Study Buddy</a></h3>
       A Flutter mobile app connecting study productivity with student well-being, through a focus timer, mood-based check-ins, and a gentle progress system.
       <br><br>
       <img src="https://img.shields.io/badge/Flutter-F7A8B8?style=flat&logo=flutter&logoColor=white">
