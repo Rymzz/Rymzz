@@ -68,7 +68,7 @@ currently:
       <img src="https://img.shields.io/badge/Dart-FF8FAB?style=flat&logo=dart&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3>CHARGÉ — Embedded Systems Robot</h3>
+      <h3> <a href="https://github.com/Rymzz/charge-embedded-robot">CHARGÉ — Embedded Systems Robot</h3>
       An autonomous line-following robot built on an ATmega324PA, using a finite state machine for symbol recognition, adaptive behaviors, and serial reporting. Team project for INF1900.
       <br><br>
       <img src="https://img.shields.io/badge/C++-FFB6C1?style=flat&logo=cplusplus&logoColor=white">
