@@ -16,7 +16,7 @@ Computer engineering student at Polytechnique Montréal, interested in software 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-rymzidi123%40gmail.com-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rymzidi123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F26C93?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F26C93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rym-zidi-27941437b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rymzz-FF8FAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rymzz)
 
 </div>
