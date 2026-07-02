@@ -80,7 +80,4 @@ currently:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8B8,100:FFC1CC&height=100&section=footer" />
-
-<div align="center">
-<sub>Open to internship opportunities in software and embedded systems engineering 🎀</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8B8,100:FFC1CC&height=130&section=footer&desc=Open%20to%20internship%20opportunities%20in%20software%20and%20embedded%20systems%20engineering%20%F0%9F%8E%80&descSize=18&descAlignY=72&fontColor=ffffff" />
