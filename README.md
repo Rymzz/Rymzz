@@ -77,13 +77,6 @@ currently:
   </tr>
 </table>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rymzz&show_icons=true&hide_border=true&count_private=true&title_color=F26C93&icon_color=F7A8B8&text_color=555555&bg_color=FFFFFF" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rymzz&layout=compact&hide_border=true&title_color=F26C93&text_color=555555&bg_color=FFFFFF" width="40%" alt="Top Languages" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8B8,100:FFC1CC&height=100&section=footer" />
